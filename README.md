@@ -5,6 +5,7 @@
 
 <div></div>
 
-- [The Big O of Objects](./mds/big-o-objects-arrays.md)
+- [The Big O of Objects](./mds/big-o-objects.md)
+- [The Big O of Arrays](./mds/big-o-arrays.md)
 
 <div></div>
