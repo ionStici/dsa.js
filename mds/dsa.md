@@ -13,3 +13,4 @@
 ### Algorithms
 
 - [Recursion](./recursion.md)
+- [Searching Algorithms](./searching-algorithms.md)
